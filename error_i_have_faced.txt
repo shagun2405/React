@@ -5,3 +5,4 @@ npm install --save-dev eslint-config-react-app eslint@^8.0.0
 import react From React; in App.js and when you are creating new component
 
 for verifying code -> https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components
+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
